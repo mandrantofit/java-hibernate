@@ -4,9 +4,11 @@
                 - Install maven 
 
 Then run 
+
                 mvn clean install 
 
-and 
+and
+
                 mvn clean package 
                 
 then run the project 
