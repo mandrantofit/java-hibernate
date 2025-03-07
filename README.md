@@ -19,4 +19,5 @@ Here is the application.propreties , and just follow the logic
        =========|_|==============|___/=/_/_/_/
 
 
-Peace , Big Up avy @ Datoa an'lah
+Zay de Bisous 
+Peace avy @ Datoa an'lah 
