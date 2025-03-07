@@ -3,8 +3,15 @@
         Second step :
                 - Install maven 
 
-Then run " mvn clean install " and " mvn clean package "
-then run the project " mvn spring-boot:run "
+Then run 
+                mvn clean install 
+
+and 
+                mvn clean package 
+                
+then run the project 
+
+                mvn spring-boot:run 
 
 Here is the application.propreties , and just follow the logic 
 
