@@ -1,7 +1,7 @@
-First step :
-- you need to have Java (>17)
-Second step :
-- Install maven 
+        First step :
+                - you need to have Java (>17)
+        Second step :
+                - Install maven 
 
 Then run " mvn clean install " and " mvn clean package "
 then run the project " mvn spring-boot:run "
